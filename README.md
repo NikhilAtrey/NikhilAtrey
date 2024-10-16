@@ -1,4 +1,4 @@
-# Hi, I'm Nikhil Atery! 👋
+# Hi, I'm Nikhil Atrey! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=F72585&lines=Aspiring+Bug+Bounty+Hunter;Web+Developer+in+Progress;Learning+Every+Day!)](https://git.io/typing-svg)
 
@@ -20,14 +20,15 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilAtrey&show_icons=true&theme=radical)
 
 ## 🌱 My GitHub Contributions  
-![My contributions](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=NikhilAtrey&theme=solarized-light)
+![My contributions](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=NikhilAtrey&theme=solarized-light)
 
 ## 🏆 Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=NikhilAtrey&theme=onestar&no-frame=true&margin-w=15)
 
 ## 📫 Let's Connect!  
 - [LinkedIn](https://www.linkedin.com/in/nikhil-atrey01/)
-- [Twitter](https://x.com/AtreyNikhil) <!-- Add your Twitter link here -->
+- [Twitter](https://x.com/AtreyNikhil)
 
 ## ✉️ Contact Me  
-You can reach me via email at [your-nikhilatrey4@gmail.com](mailto:nikhilatrey4@gmail.com).
+You can reach me via email at [nikhilatrey4@gmail.com](mailto:nikhilatrey4@gmail.com).
+
