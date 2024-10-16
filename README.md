@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nikhil Atery! 👋
 
-<!--
-**NikhilAtrey/NikhilAtrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 Learning: Web Development & Bug Bounty Hunting  
+- 💻 Current Focus: HTML, CSS, JavaScript, and Ethical Hacking  
+- 🎯 Goal: Become a successful Bug Bounty Hunter  
+- 🎓 MCA Student  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Technologies
+- **Languages**: Python, HTML, CSS  
+- **Tools**: Kali Linux, Git, GitHub  
+- **Interests**: Cybersecurity, Pentesting, Open-Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilAtery&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/nikhil-attery)
+- Email: nikhil@example.com
