@@ -12,7 +12,7 @@
 - **Interests**: Cybersecurity, Pentesting, Open-Source Contributions
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilAtery&show_icons=true&theme=radical&count_private=true)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilAtrey&show_icons=true&theme=radical)
 
 
 ## 📫 Connect with Me
