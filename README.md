@@ -19,8 +19,8 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilAtrey&show_icons=true&theme=radical)
 
-## 🌱 My GitHub Contributions  
-![My contributions](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=NikhilAtrey&theme=solarized-light)
+## 📅 Contribution Activity  
+![Contribution Activity](https://github-readme-streak-stats.herokuapp.com/?user=NikhilAtrey&theme=radical)
 
 ## 🏆 Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=NikhilAtrey&theme=onestar&no-frame=true&margin-w=15)
