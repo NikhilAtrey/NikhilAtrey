@@ -19,7 +19,7 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilAtrey&show_icons=true&theme=radical)
 
-![snake gif](https://github.com/NikhilAtery/NikhilAtrey/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/NikhilAtrey/NikhilAtrey/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=NikhilAtrey&theme=onestar&no-frame=true&margin-w=15)
