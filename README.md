@@ -87,26 +87,12 @@
 
 ---
 
-## 📌 **Pinned Repositories**
-
-[](https://github.com/NikhilAtrey/CyberSecurity-Toolkit)
-
-[
-
-](https://github.com/NikhilAtrey/BugBounty-Automation)
-
----
-
 ## 🌎 **Connect With Me!**
 
 📧 **Email:** [nikhilatrey4@gmail.com](mailto:nikhilatrey4@gmail.com)  
 💼 **LinkedIn:** [Nikhil Atrey](https://www.linkedin.com/in/nikhil-atrey01/)  
 🐦 **Twitter/X:** [@AtreyNikhil](https://x.com/AtreyNikhil)  
 🚀 **Portfolio Website:** [Coming Soon!]
-
----
-
-🔥 Always **learning, building, and hacking!** If you're interested in **cybersecurity, bug bounty, or web security**, let's **connect and collaborate!** 🚀
 
 ---
 
@@ -118,13 +104,6 @@
 
 💻 **Fun Fact:**  
 Did you know that **the first-ever website** created by **Tim Berners-Lee** is still online? Check it out here: [worldwideweb](http://info.cern.ch/)
-
----
-
-### 🚀 This README is **100% Dynamic!**
-
-⚡ **Last Updated:** `$(date +"%B %d, %Y")`  
-👀 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=NikhilAtrey&color=blue&style=flat-square) 
 
 ---
 
