@@ -47,13 +47,8 @@
 
 ### 🌐 **Web Development & Secure Coding**
 
-✔️ Built a **portfolio website** showcasing projects, security research, and blog content.  
-✔️ Developing a **mobile productivity app** (Android/iOS) with:
-
-- ⏳ **Time Tracking System**
-- 📅 **Customizable Reminders**
-- 🎮 **Gamified Progress & Reward System**  
-  ✔️ Learning **React, Node.js, and Django** for full-stack security automation.
+✔️ Built a **portfolio website** showcasing projects, security research, and blog content. 
+✔️ Learning **React, Node.js, and Django** for full-stack security automation.
 
 ---
 
