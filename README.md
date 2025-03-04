@@ -1,55 +1,63 @@
-# Hi, I'm Nikhil Atrey! 👋
+# 🚀 **Nikhil Atrey** | *Cybersecurity Enthusiast & Bug Bounty Hunter*
 
 [](https://git.io/typing-svg)
 
-![Profile views](https://komarev.com/ghpvc/?username=NikhilAtrey&color=blue&style=flat-square)
-
-## 🛡️ About Me
-
-🔹 Passionate **Bug Bounty Hunter & Cybersecurity Enthusiast** with hands-on experience in **penetration testing, web security, and ethical hacking**.  
-🔹 Exploring **OWASP Top 10 vulnerabilities, bug bounty methodologies, and secure web development**.  
-🔹 Skilled in **Python, JavaScript, PHP, SQL**, and working on **full-stack development** to automate security testing.  
-🔹 Currently learning **React, Node.js, and Django** to enhance **web security & freelance development**.
-
----
-
-## 🛠️ Technologies & Tools
-
-<div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQL"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" title="Bash"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+<div align="center"> 
+<img src="https://komarev.com/ghpvc/?username=NikhilAtrey&color=blue&style=flat-square" alt="Profile views"> 
+<img src="https://img.shields.io/github/followers/NikhilAtrey?label=Followers&style=social" alt="GitHub Followers">
+ <img src="https://img.shields.io/github/stars/NikhilAtrey?label=GitHub%20Stars&style=social" alt="GitHub Stars">
 </div>
 
-**🔹 Cybersecurity Tools & Platforms:**  
-🛠️ Burp Suite | Kaido | Nmap | Dirb | FFUF | TryHackMe | HackTheBox | PortSwigger Labs | DVWA | bWAPP
+---
 
-**🔹 Web Development:**  
-🌐 React (Learning) | Node.js (Learning) | Django (Learning) | Git/GitHub | VSCode
+## 🛡️ **About Me**
+
+🔹 **Cybersecurity Enthusiast & Ethical Hacker** passionate about **web security, penetration testing, and bug bounty hunting**.  
+🔹 Skilled in **Python, JavaScript, PHP, SQL**, with experience in **OWASP Top 10 vulnerabilities, CTFs, and web exploitation**.  
+🔹 Learning **Full-Stack Web Development (React, Node.js, Django)** to enhance **bug bounty automation & freelance security projects**.  
+🔹 Exploring **Offensive Security (OSCP) and real-world bug bounty programs**.
 
 ---
 
-## 🏆 Achievements & Projects
+## 🚀 **Tech Stack & Tools**
 
-🚀 **Cybersecurity & Bug Bounty:**
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=python,javascript,php,html,css,react,nodejs,django,mysql,bash,linux,git,github,kali,vscode" />
+</p>
 
-- Explored **SQL Injection, XSS, and Command Injection vulnerabilities** in **PortSwigger Labs & CTFs**.
-- Developed **Python-based security tools**: **network scanner, packet sniffer, ARP spoofer, MAC changer**.
-- Participated in **Hacker101, OverTheWire (Bandit/Natas), TryHackMe, and HackTheBox challenges**.
+### 🛠️ **Cybersecurity Tools & Platforms**
 
-💻 **Web Development & Security:**
-
-- Built a **portfolio website** showcasing projects, security research, and blog content.
-- Developing a **mobile productivity app** (Android/iOS) with a **gamified progress system, reminders, and local storage**.
-- Learning **full-stack web development** to automate **bug hunting and security testing**.
+✅ **Burp Suite | Kaido | Nmap | FFUF | Dirb | TryHackMe | HackTheBox | PortSwigger Labs**  
+✅ **DVWA | bWAPP | Metasploit | SQLmap | OWASP ZAP**
 
 ---
 
-## 🎓 Certifications & Training
+## 🎯 **Projects & Achievements**
+
+### 🛡️ **Cybersecurity & Bug Bounty**
+
+✔️ Exploited **SQL Injection, XSS, and Command Execution vulnerabilities** in **PortSwigger Labs, CTFs, and real-world challenges**.  
+✔️ Developed **Python-based security tools**:
+
+- 🛠 **Network Scanner**
+- 🛠 **Packet Sniffer**
+- 🛠 **ARP Spoofer**
+- 🛠 **MAC Changer**  
+  ✔️ Completed **Hacker101, OverTheWire Bandit/Natas, and TryHackMe challenges**.
+
+### 🌐 **Web Development & Secure Coding**
+
+✔️ Built a **portfolio website** showcasing projects, security research, and blog content.  
+✔️ Developing a **mobile productivity app** (Android/iOS) with:
+
+- ⏳ **Time Tracking System**
+- 📅 **Customizable Reminders**
+- 🎮 **Gamified Progress & Reward System**  
+  ✔️ Learning **React, Node.js, and Django** for full-stack security automation.
+
+---
+
+## 🏆 **Certifications & Training**
 
 🎖️ **Deloitte Australia – Cyber Job Simulation (2025)**  
 🎖️ **Bash Scripting for Beginners – Udemy**  
@@ -58,20 +66,74 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats & Activity**
 
-  
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=NikhilAtrey&theme=onestar&no-frame=true&margin-w=15)
+<table align="center">
+<tr>
+ <td>
+ <img src="https://github-readme-stats.vercel.app/api?username=NikhilAtrey&show_icons=true&theme=radical" alt="GitHub Stats">
+ </td>
+ <td>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilAtrey&theme=radical" alt="GitHub Streak">
+ </td>
+</tr>
+</table>
+
+🎯 **Most Used Languages**
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilAtrey&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
+## 📌 **Pinned Repositories**
 
+[](https://github.com/NikhilAtrey/CyberSecurity-Toolkit)
+
+[
+
+](https://github.com/NikhilAtrey/BugBounty-Automation)
+
+---
+
+## 🌎 **Connect With Me!**
+
+📧 **Email:** [nikhilatrey4@gmail.com](mailto:nikhilatrey4@gmail.com)  
 💼 **LinkedIn:** [Nikhil Atrey](https://www.linkedin.com/in/nikhil-atrey01/)  
-🐦 **Twitter:** [@AtreyNikhil](https://x.com/AtreyNikhil)  
-📧 **Email:** [nikhilatrey4@gmail.com](mailto:nikhilatrey4@gmail.com)
+🐦 **Twitter/X:** [@AtreyNikhil](https://x.com/AtreyNikhil)  
+🚀 **Portfolio Website:** [Coming Soon!]
 
 ---
 
-🔥 Always **learning, building, and hacking**! If you're interested in **cybersecurity, bug bounty hunting, or web security**, let's **connect and collaborate!** 🚀
+🔥 Always **learning, building, and hacking!** If you're interested in **cybersecurity, bug bounty, or web security**, let's **connect and collaborate!** 🚀
+
+---
+
+## 🎨 **Fun & Extras**
+
+💡 **Quote of the Day:**
+
+> *"Security is not a product, but a process."* – Bruce Schneier
+
+💻 **Fun Fact:**  
+Did you know that **the first-ever website** created by **Tim Berners-Lee** is still online? Check it out here: [worldwideweb](http://info.cern.ch/)
+
+---
+
+### 🚀 This README is **100% Dynamic!**
+
+⚡ **Last Updated:** `$(date +"%B %d, %Y")`  
+👀 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=NikhilAtrey&color=blue&style=flat-square) 
+
+---
+
+## 🔥 **Let's Make Cybersecurity Stronger Together!** 🛡️
+
+💬 **DM me if you're interested in collaborations, research, or security discussions!**
+
+---
+
+### 🎯 **Like what you see?**
+
+📌 **Star this repo** to support my work! ⭐
